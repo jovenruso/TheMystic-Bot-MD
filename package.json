@@ -1,7 +1,7 @@
 {
     "name": "TheMystic-Bot-MD",
     "version": "1.0.0",
-    "description": "Subs. al canal de YT The Shadow Borkers - TEAM",
+    "description": "Subs. al canal de mi - TEAM",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -14,20 +14,20 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+    "homepage": "https://github.com/jovenruso/TheMystic-Bot-MD",
     "author": {
-        "name": "BrunoSobrino"
+        "name": "Alonso"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+        "url": "git+https://github.com/jovenrusl/TheMystic-Bot-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+        "url": "https://github.com/jovenruso/TheMystic-Bot-MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:BrunoSobrino/baileys",
+        "@adiwajshing/baileys": "github:jovenruso/baileys",
         "@bochilteam/scraper": "^3.0.0",
         "@vitalets/google-translate-api": "^8.0.0",
         "@shineiichijo/marika": "^2.0.6",
